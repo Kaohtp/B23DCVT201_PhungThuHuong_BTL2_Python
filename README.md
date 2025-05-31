@@ -1,4 +1,3 @@
-🎬 CNN Image Classification
 📌 Overview
 This project builds a Convolutional Neural Network (CNN) from scratch to classify images in the CIFAR-10 dataset. It focuses on enhancing performance, improving generalization, and interpreting the training process through essential techniques such as data augmentation, regularization, and learning rate scheduling.
 
@@ -14,7 +13,6 @@ Language: Python
 
 Framework: PyTorch
 
-Source Code: 
 
 🧠 Optimization Strategies
 Data Augmentation: RandomCrop, RandomHorizontalFlip, RandomErasing
